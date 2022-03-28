@@ -8,7 +8,7 @@ DEMO:
 
 -> A Simple Chrome Extension for copying color code.\
 -> Can copy from anywhere on the screen whether it is browser or not.\
--> picked color will get copied to clipboard.\
+-> picked color will get copied to clipboard.
 
 A improved version with different functionalites is on the way!
 
