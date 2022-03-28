@@ -1,0 +1,19 @@
+{
+  "name": "Know the Color",
+  "description": "A color picker extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["activeTab", "scripting", "storage"],
+  "options_page": "options.html",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "/images/favicon-16x16.png",
+    "32": "/images/favicon-32x32.png",
+    "48": "/images/apple-touch-icon.png"
+  }
+}
