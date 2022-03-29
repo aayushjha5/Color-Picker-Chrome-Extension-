@@ -10,6 +10,6 @@ DEMO:
 -> Can copy from anywhere on the screen whether it is browser or not.\
 -> picked color will get copied to clipboard.
 
-A improved version with different functionalites is on the way!
+A improved version with more functionalites is on the way!
 
 
